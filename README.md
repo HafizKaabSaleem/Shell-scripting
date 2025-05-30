@@ -62,4 +62,3 @@ I'm a DevOps enthusiast who is currently learning by building and experimenting 
     GitHub: https://github.com/HafizKaabSaleem
     
     LinkedIn: www.linkedin.com/in/hafizaabaleem
-    LinkedIn: www.linkedin.com/in/hafizaabaleem
